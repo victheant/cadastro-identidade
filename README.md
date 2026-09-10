@@ -249,3 +249,11 @@ Resposta obtida:
 
 ## URL do serviço de Logger utilizado
 https://pzaas.online/webhook/logger241425:v1/logs
+
+### Headers do serviço de Logger
+
+```text
+Content-Type: application/json
+x-api-key: turma2026
+x-pedido-id: cadastro-identidade
+```
