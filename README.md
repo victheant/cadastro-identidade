@@ -244,3 +244,8 @@ Resposta obtida:
   "erro": "Token inválido ou ausente"
 }
 ```
+
+---
+
+## URL do serviço de Logger utilizado
+https://pzaas.online/webhook/logger241425:v1/logs
