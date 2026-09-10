@@ -7,7 +7,7 @@ Serviço responsável pelo cadastro de usuários, validação de token e recuper
 
 ## 1. Endpoints, métodos e versão
 
-A versão atual da API é **v1.6.1**.
+A versão atual da API é **v1.7**.
 
 | Método | Endpoint | Descrição |
 |---|---|---|
